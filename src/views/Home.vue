@@ -77,7 +77,7 @@
 	export default {
 		data() {
 			return {
-				sysName:'VUE-ELEMENT',
+				sysName:'VueTemplate',
 				collapsed:false,
 				sysUserName: '',
 				sysUserAvatar: '',
@@ -98,10 +98,10 @@
 				console.log('submit!');
 			},
 			handleopen() {
-				//console.log('handleopen');
+				
 			},
 			handleclose() {
-				//console.log('handleclose');
+				
 			},
 			handleselect: function (a, b) {
 			},
