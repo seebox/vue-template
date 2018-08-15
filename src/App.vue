@@ -18,7 +18,7 @@ export default {
 
 <style lang="scss">
 body {
-	margin: 0px;
+	margin: 1px;
 	padding: 0px;
 	/*background: url(assets/bg1.jpg) center !important;
 		background-size: cover;*/
